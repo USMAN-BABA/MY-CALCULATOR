@@ -1,0 +1,19 @@
+{
+  "name": "u87-simple-calculator-4",
+  "version": "1.0.1",
+  "description": "a simple calculator with typescipt, node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "u8712-simple-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Usman",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
